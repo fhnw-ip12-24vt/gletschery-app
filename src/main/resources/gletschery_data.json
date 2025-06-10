@@ -1,0 +1,421 @@
+ {
+  "players": [
+    {
+      "name": {
+        "de": "Steinbock",
+        "en": "Capricorn",
+        "fr": "Capricorne"
+      },
+      "icon": "/home/pi/Pictures/generalImages/steinbock.png"
+    },
+    {
+      "name": {
+        "de": "Murmeltier",
+        "en": "Marmot",
+        "fr": "Marmotte"
+      },
+      "icon": "/home/pi/Pictures/generalImages/murmeltier.png"
+    }
+  ],
+  "cardPairs": [
+    {
+      "pairId": "00",
+      "name": "Persgletscher, GR",
+      "fact": {
+        "de": "Früher war der Gletscher fest mit dem Morteratschgletscher verbunden. Durch die Schmelze sind die beiden Gletscher momentan nicht mehr miteinander verbunden.",
+        "en": "The glacier used to be firmly connected to the Morteratsch Glacier. Due to melting, the two glaciers are currently no longer connected.",
+        "fr": "Autrefois, le glacier était solidement relié au glacier de Morteratsch. En raison de la fonte, les deux glaciers ne sont actuellement plus reliés."
+      },
+      "cards": [
+        {
+          "id": "00A",
+          "image": "/home/pi/Pictures/gletscherImages/Persgletscher-A.png",
+          "date": "1975"
+        },
+        {
+          "id": "00B",
+          "image": "/home/pi/Pictures/gletscherImages/Persgletscher-B.png",
+          "date": "2005"
+        }
+      ]
+    },
+    {
+      "pairId": "01",
+      "name": "Tiefengletscher, UR",
+      "fact": {
+        "de": "Der Tiefengletscher ist ein Talgletscher in den Urner Alpen. Das Schmelzwasser des Gletschers fliesst über den Sidelenbach in die Reuss, dann in die Aare, wo es schliesslich in den Rhein mündet.",
+        "en": "The Tiefengletscher is a valley glacier in the Uri Alps. The meltwater from the glacier flows over the Sidelenbach into the Reuss, then into the Aare, where it finally flows into the Rhine.",
+        "fr": "Le Tiefengletscher est un glacier de vallée situé dans les Alpes uranaises. L'eau de fonte du glacier s'écoule via le Sidelenbach dans la Reuss, puis dans l'Aar, où elle se jette finalement dans le Rhin."
+      },
+      "cards": [
+        {
+          "id": "01A",
+          "image": "/home/pi/Pictures/gletscherImages/Tiefengletscher-A.png",
+          "date": "1918"
+        },
+        {
+          "id": "01B",
+          "image": "/home/pi/Pictures/gletscherImages/Tiefengletscher-B.png",
+          "date": "2021"
+        }
+      ]
+    },
+    {
+      "pairId": "02",
+      "name": "Pizolgletscher, GR",
+      "fact": {
+        "de": "Der Pizolgletscher zerfiel aufgrund der grossen Hitze im Jahr 2018 in mehrere, einzelne Teile. Er gilt als einer der ersten Schweizer Gletscher, der vollständig schmelzen wird.",
+        "en": "The Pizol Glacier disintegrated into several individual pieces due to the extreme heat in 2018. It is considered to be one of the first Swiss glaciers to melt completely.",
+        "fr": "Le glacier du Pizol s'est désintégré en plusieurs parties distinctes en raison des fortes chaleurs de 2018. Il est considéré comme l'un des premiers glaciers suisses à fondre complètement."
+      },
+      "cards": [
+        {
+          "id": "02A",
+          "image": "/home/pi/Pictures/gletscherImages/Pizolgletscher-A.png",
+          "date": "1959"
+        },
+        {
+          "id": "02B",
+          "image": "/home/pi/Pictures/gletscherImages/Pizolgletscher-B.png",
+          "date": "2010"
+        }
+      ]
+    },
+    {
+      "pairId": "03",
+      "name": "Tschiervagletscher, GR",
+      "fact": {
+        "de": "Der Tschiervagletscher war bis 1944 mit dem Roseggletscher im Tal Roseg verbunden. Der Rückzug beider Gletscher führte dann zur Bildung des \"Lej da Vadret\".",
+        "en": "The Tschierva glacier was connected to the Roseg glacier in the Roseg valley until 1944. The retreat of both glaciers then led to the formation of the \"Lej da Vadret\".",
+        "fr": "Le glacier Tschierva était relié au glacier Roseg dans la vallée de Roseg jusqu'en 1944. Le retrait des deux glaciers a ensuite entraîné la formation du \"Lej da Vadret\"."
+      },
+      "cards": [
+        {
+          "id": "03A",
+          "image": "/home/pi/Pictures/gletscherImages/Tschierva-A.png",
+          "date": "1895"
+        },
+        {
+          "id": "03B",
+          "image": "/home/pi/Pictures/gletscherImages/Tschierva-B.png",
+          "date": "2024"
+        }
+      ]
+    },
+    {
+      "pairId": "04",
+      "name": "Gornergletscher, VS",
+      "fact": {
+        "de": "Der Gornergletscher erstreckt sich über etwa 12 Kilometer, wobei er an seinen dicksten Stellen eine Eisstärke von über 350 Meter erreicht. Seit 1850 ist er bereits über 3 km zurückgegangen.",
+        "en": "The Gorner Glacier stretches for around 12 kilometers, reaching an ice thickness of over 350 meters at its thickest points. Since 1850, it has already receded over 3 km.",
+        "fr": "Le glacier du Gorner s'étend sur environ 12 kilomètres, avec une épaisseur de glace de plus de 350 mètres à ses endroits les plus épais. Depuis 1850, il a déjà reculé de plus de 3 km."
+      },
+      "cards": [
+        {
+          "id": "04A",
+          "image": "/home/pi/Pictures/gletscherImages/Gornergletscher-A.png",
+          "date": "2004"
+        },
+        {
+          "id": "04B",
+          "image": "/home/pi/Pictures/gletscherImages/Gornergletscher-B.png",
+          "date": "2018"
+        }
+      ]
+    },
+    {
+      "pairId": "05",
+      "name": "Aletschgletscher, VS",
+      "fact": {
+        "de": "Der grösste Gletscher der Alpen und doch sagen Prognosen voraus, dass er bis zum Ende des 21. Jahrhunderts fast komplett verschwinden könnte.",
+        "en": "The largest glacier in the Alps, and yet forecasts predict that it could disappear almost completely by the end of the 21st century.",
+        "fr": "Le plus grand glacier des Alpes et pourtant les prévisions annoncent qu'il pourrait presque disparaître complètement d'ici la fin du 21ᵉ siècle."
+      },
+      "cards": [
+        {
+          "id": "05A",
+          "image": "/home/pi/Pictures/gletscherImages/Aletschgletscher-A.png",
+          "date": "1880"
+        },
+        {
+          "id": "05B",
+          "image": "/home/pi/Pictures/gletscherImages/Aletschgletscher-B.png",
+          "date": "2015"
+        }
+      ]
+    },
+    {
+      "pairId": "06",
+      "name": "Riedgletscher, VS",
+      "fact": {
+        "de": "Vor langer Zeit wurde das Wasser des Gletschers über alte Wasserleitungen namens «Suonen» bis zu den Gemeinden St. Nikolaus und Grächen transportiert, um dort die Wiesen zu bewässern.",
+        "en": "A long time ago, the water from the glacier was transported to the communities of St. Nikolaus and Grächen via old water pipes called \"Suonen\" to irrigate the meadows there.",
+        "fr": "Il y a longtemps, l'eau du glacier était transportée par d'anciennes conduites d'eau appelées « bisses » jusqu'aux communes de St. Nikolaus et Grächen pour y irriguer les prairies."
+      },
+      "cards": [
+        {
+          "id": "06A",
+          "image": "/home/pi/Pictures/gletscherImages/Riedgletscher-A.png",
+          "date": "1987"
+        },
+        {
+          "id": "06B",
+          "image": "/home/pi/Pictures/gletscherImages/Riedgletscher-B.png",
+          "date": "2020"
+        }
+      ]
+    },
+    {
+      "pairId": "07",
+      "name": "Fieschergletscher, VS",
+      "fact": {
+        "de": "Der Fieschergletscher ist mit 14 km einer der längsten Gletscher der Alpen und hat seit 1850 bereits über 3 km an Länge verloren.",
+        "en": "At 14 km, the Fiescher Glacier is one of the longest glaciers in the Alps and has already lost over 3 km in length since 1850.",
+        "fr": "Avec ses 14 km, le Fieschergletscher est l'un des plus longs glaciers des Alpes et a déjà perdu plus de 3 km de sa longueur depuis 1850."
+      },
+      "cards": [
+        {
+          "id": "07A",
+          "image": "/home/pi/Pictures/gletscherImages/Fieschergletscher-A.png",
+          "date": "1908"
+        },
+        {
+          "id": "07B",
+          "image": "/home/pi/Pictures/gletscherImages/Fieschergletscher-B.png",
+          "date": "2024"
+        }
+      ]
+    },
+    {
+      "pairId": "08",
+      "name": "Roseggletscher, GR",
+      "fact": {
+        "de": "Durch das Schmelzen des Gletschers hat sich ein neuer Gletschersee gebildet, der weiter wächst, während das Eis schwindet.",
+        "en": "As the glacier melts, a new glacial lake has formed, which continues to grow as the ice disappears.",
+        "fr": "La fonte du glacier a entraîné la formation d'un nouveau lac glaciaire qui continue de croître alors que la glace disparaît."
+      },
+      "cards": [
+        {
+          "id": "08A",
+          "image": "/home/pi/Pictures/gletscherImages/Roseggletscher-A.png",
+          "date": "ca. 1900"
+        },
+        {
+          "id": "08B",
+          "image": "/home/pi/Pictures/gletscherImages/Roseggletscher-B.png",
+          "date": "1943"
+        }
+      ]
+    },
+    {
+      "pairId": "09",
+      "name": "Trientgletscher, VS",
+      "fact": {
+        "de": "Aufgrund seiner Steile schmilzt der Gletscher schneller als andere, somit zeigt er früher als andere Gletscher, wie sich das Klima auf die Alpen auswirkt.",
+        "en": "Due to its steepness, the glacier melts faster than others, so it shows earlier than other glaciers how the climate is affecting the Alps.",
+        "fr": "En raison de sa pente, le glacier fond plus rapidement que les autres, ce qui lui permet de montrer plus tôt que les autres glaciers l'impact du climat sur les Alpes."
+      },
+      "cards": [
+        {
+          "id": "09A",
+          "image": "/home/pi/Pictures/gletscherImages/Trientgletscher-A.png",
+          "date": "1972"
+        },
+        {
+          "id": "09B",
+          "image": "/home/pi/Pictures/gletscherImages/Trientgletscher-B.png",
+          "date": "2000"
+        }
+      ]
+    },
+    {
+      "pairId": "10",
+      "name": "Rhonegletscher, VS",
+      "fact": {
+        "de": "Seit einigen Jahren werden Teile des Gletschers mit weissem Fliessstoff abgedeckt, um die Schmelze zu verlangsamen.",
+        "en": "For some years now, parts of the glacier have been covered with white cloth to slow down the melting.",
+        "fr": "Depuis quelques années, certaines parties du glacier sont recouvertes de toile blanche afin de ralentir la fonte."
+      },
+      "cards": [
+        {
+          "id": "10A",
+          "image": "/home/pi/Pictures/gletscherImages/Rhonegletscher-A.png",
+          "date": "1900"
+        },
+        {
+          "id": "10B",
+          "image": "/home/pi/Pictures/gletscherImages/Rhonegletscher-B.png",
+          "date": "2008"
+        }
+      ]
+    },
+    {
+      "pairId": "11",
+      "name": "Triftgletscher, BE",
+      "fact": {
+        "de": "Durch die starke Schmelze hat sich in den 1990ern der Triftsee gebildet und wächst seitdem jedes Jahr weiter an.",
+        "en": "Lake Trift was formed in the 1990s as a result of heavy melting and has continued to grow every year since then.",
+        "fr": "La fonte importante a formé le Triftsee dans les années 1990 et depuis, il continue de grandir chaque année."
+      },
+      "cards": [
+        {
+          "id": "11A",
+          "image": "/home/pi/Pictures/gletscherImages/Triftgletscher-A.png",
+          "date": "2002"
+        },
+        {
+          "id": "11B",
+          "image": "/home/pi/Pictures/gletscherImages/Triftgletscher-B.png",
+          "date": "2019"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "languages": [
+      "de",
+      "fr",
+      "en"
+    ],
+    "defaultLanguage": "de",
+    "backgroundImage": "/home/pi/Pictures/generalImages/backgroundImage.png",
+    "instructionImage": "/home/pi/Pictures/generalImages/instruction.png",
+    "introductionImage": "home/pi/Pictures/generalImages/introduction.png",
+    "logoImage": "/home/pi/Pictures/generalImages/logoImage.png",
+    "credits": {
+      "qrCodeGlacierChange": "/home/pi/Pictures/generalImages/qrCodeGlacierChange.png",
+      "qrCodeSwissEduc": "/home/pi/Pictures/generalImages/qrCodeSwissEduc.png",
+      "qrCodeEPics": "/home/pi/Pictures/generalImages/qrCodeEPics.png",
+      "de": {
+        "title": "Credits",
+        "text": "Dieses Spiel wurde im Rahmen des Informatikprojekts 1–2 an der Fachhochschule Nordwestschweiz von Maurice Meier, Aswin Senthilrajan, Dominik Scheuber, Nora Ramos, Volkan Sitti und Patrick Havarneanu-Bica für den Primeo Energie Kosmos entwickelt. Ein herzliches Dankeschön geht an ETH E-Pics, Jürg Alean von SwissEduc sowie Mark Reysso von GlacierChange für die Bereitstellung der Bilder.",
+        "ePics": "www.e-pics.ethz.ch",
+        "swissEduc": "www.swisseduc.ch",
+        "glacierChange": "wwww.glacierchange.com"
+      },
+      "en": {
+        "title": "Credits",
+        "text": "This game was developed for the Primeo Energy Cosmos by Maurice Meier, Aswin Senthilrajan, Dominik Scheuber, Nora Ramos, Volkan Sitti and Patrick Havarneanu-Bica as part of the computer science project 1-2 at the University of Applied Sciences and Arts Northwestern Switzerland. Many thanks to ETH E-Pics, Jürg Alean from SwissEduc and Mark Reysso from GlacierChange for providing the images.",
+        "ePics": "www.e-pics.ethz.ch",
+        "swissEduc": "www.swisseduc.ch",
+        "glacierChange": "wwww.glacierchange.com"
+      },
+      "fr": {
+        "title": "Crédits",
+        "text": "Ce jeu a été développé dans le cadre du projet informatique 1-2 à la Haute école spécialisée du Nord-Ouest de la Suisse par Maurice Meier, Aswin Senthilrajan, Dominik Scheuber, Nora Ramos, Volkan Sitti et Patrick Havarneanu-Bica pour le cosmos énergétique Primeo. Nous remercions chaleureusement ETH E-Pics, Jürg Alean de SwissEduc ainsi que Mark Reysso de GlacierChange pour la mise à disposition des images.",
+        "ePics": "www.e-pics.ethz.ch",
+        "swissEduc": "www.swisseduc.ch",
+        "glacierChange": "wwww.glacierchange.com"
+      }
+    }
+  },
+  "ui": {
+    "checkMarkIcon": "/home/pi/Pictures/generalImages/checkMark.png",
+    "nextPageIcon": "/home/pi/Pictures/generalImages/nextPage.png",
+    "cancelIcon": "/home/pi/Pictures/generalImages/cancel.png",
+    "pointerIcon": "/home/pi/Pictures/generalImages/pointer.png",
+    "pointerUpIcon": "/home/pi/Pictures/generalImages/pointerUp.png",
+    "germanFlagIcon": "/home/pi/Pictures/generalImages/germanFlag.png",
+    "frenchFlagIcon": "/home/pi/Pictures/generalImages/frenchFlag.png",
+    "englishFlagIcon": "/home/pi/Pictures/generalImages/englishFlag.png",
+    "de": {
+      "startGameFromMenu": "START",
+      "confirmSelection": "Auswahl bestätigen",
+      "changeSelection": "Auswahl ändern",
+      "changeLanguage": "Sprache",
+      "slideShow": "Diashow",
+      "changeLanguageMenu": "Sprache auswählen",
+      "startGame": "Spiel starten",
+      "endGame": "Spiel beenden",
+      "continueGame": "Spiel fortsetzen",
+      "showInstructions": "Spielanleitung",
+      "showCredits": "Credits",
+      "backHome": "Zurück zum Hauptmenü",
+      "pressAnyKey": "Los geht's! Drücke einen Button.",
+      "scanString": "Scannen",
+      "gameMessages": {
+        "takeTwo": " ist am Zug, drehe zwei Karten und drücke den Scan-Knopf!",
+        "tooMany": "Du hast zu viele Karten umgedreht, wähle zwei und drücke den Scan-Knopf!",
+        "notEnough": "Du hast zu wenige Karten umgedreht, wähle zwei und drücke den Scan-Knopf!",
+        "alreadyFound": "Dieses Kartenpaar hast du bereits gefunden, grossartig!\n Jetzt suche weiter und entdecke ein neues Paar!",
+        "scanError": "Hmm, der Scan hat nicht geklappt, probier’s nochmal!",
+        "correctPairFound1": "Gut gemacht!",
+        "correctPairFound2": "Du hast ein Kartenpaar gefunden!\n Nimm die Karten vom Spielfeld und lege sie zurück in die Aufräumstation.",
+        "falsePairFound1": "Leider falsch!",
+        "falsePairFound2": "Diese Karten passen nicht zusammen.\n Dreh die Karten wieder um und versuche es in der nächsten Runde erneut.",
+        "gameFinished1": "Herzliche Gratulation!",
+        "gameFinished2": "Du hast in dieser Runde die meisten Paare gesammelt.",
+        "gameFinished3": "Ihr habt in dieser Runde gleich viele Paare gesammelt.",
+        "gameFinished4": "Neues Spiel starten"
+      }
+    },
+    "en": {
+      "startGameFromMenu": "START",
+      "confirmSelection": "Confirm selection",
+      "changeSelection": "Change selection",
+      "changeLanguage": "Language",
+      "slideShow": "Slideshow",
+      "changeLanguageMenu": "Select language",
+      "startGame": "Start game",
+      "endGame": "Quit game",
+      "continueGame": "Resume game",
+      "showInstructions": "Game instructions",
+      "showCredits": "Credits",
+      "backHome": "Back to home menu",
+      "scanString": "Scan",
+      "pressAnyKey": "Lets go! Press a Button.",
+      "gameMessages": {
+        "takeTwo": ", it's your turn, flip two cards and press the scan button!",
+        "tooMany": "You have flipped too many cards, select two and press the scan button!",
+        "notEnough": "You have flipped too few cards, select two and press the scan button!",
+        "alreadyFound": "This pair has already been found, choose a new one!",
+        "scanError": "Hmm, seems like the scan didn’t work, try again!",
+        "correctPairFound1": "Nice work!",
+        "correctPairFound2": "You have found a pair of cards! \n Take the cards from the playing field and put them back in the clearing station.",
+        "falsePairFound1": "Sadly wrong!",
+        "falsePairFound2": "These cards do not match. \n Turn the cards over again and try again in the next round.",
+        "gameFinished1": "Congratulations!",
+        "gameFinished2": "You have collected the most pairs in this round.",
+        "gameFinished3": "You have collected the same number of pairs in this round.",
+        "gameFinished4": "Start new game"
+      }
+    },
+    "fr": {
+      "startGameFromMenu": "COMMENCER",
+      "confirmSelection": "Confirmer la sélection",
+      "changeSelection": "Changer la sélection",
+      "changeLanguage": "Langue",
+      "slideShow": "Diaporama",
+      "changeLanguageMenu": "Changer la langue",
+      "startGame": "Commencer le jeu",
+      "endGame": "Terminer le jeu",
+      "continueGame": "Continuer le jeu",
+      "showInstructions": "Guide de jeu",
+      "showCredits": "Crédits",
+      "backHome": "Retour au menu principal",
+      "scanString": "Scanner",
+      "pressAnyKey": "C'est parti! Appuie sur le bouton.",
+      "gameMessages": {
+        "takeTwo": ", c'est ton tour! Tourner deux cartes et appuie sur le bouton de scan!",
+        "tooMany": "Tu as retourné trop de cartes, sélectionne-en deux et appuie sur le bouton de scan!",
+        "notEnough": "Tu as retourné trop peu de cartes, sélectionne-en deux et appuie sur le bouton de scan!",
+        "alreadyFound": "Cette paire a déjà été trouvée, sélectionnez-en une nouvelle!",
+        "scanError": "Hmm, on dirait que le scan n’a pas marché, réessaie!",
+        "correctPairFound1": "Bien joué!",
+        "correctPairFound2": "Tu as trouvé une paire de cartes! \n Retire les cartes du jeu et remets-les dans la station de rangement.",
+        "falsePairFound1": "Malheureusement faux!",
+        "falsePairFound2": "Ces cartes ne vont pas ensemble. \n Retourne les cartes et réessaie au tour suivant.",
+        "gameFinished1": "Toutes nos félicitations!",
+        "gameFinished2": "Tu as récolté le plus de paires à ce tour.",
+        "gameFinished3": "Vous avez collecté le même nombre de paires à ce tour.",
+        "gameFinished4": "Commencer un nouveau jeu"
+      }
+    }
+  },
+  "design": {
+    "themeColor": "#336699",
+    "fontSize": "12pt",
+    "highlightColor": "#88ccff",
+    "font": "/home/pi/Documents/Inter-VariableFont.ttf"
+  }
+}
