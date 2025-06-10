@@ -13,31 +13,31 @@ Dazu gehören die Dokumentation von:
 - Anleitungen
 
 == Softwaredokumentation (SAD)
-Die link:software(sad)/sad/[Softwaredokumentation] ist nach den Vorgaben von arc42 erstellt worden (https://arc42.org/) und dokumentiert die Architektur der Softwarelösung.
+Die https://github.com/fhnw-ip12-24vt/gletschery-docu/tree/main/software(sad)/sad[Softwaredokumentation] ist nach den Vorgaben von arc42 erstellt worden (https://arc42.org/) und dokumentiert die Architektur der Softwarelösung.
 
-Die link:software(sad)/system-idee.adoc[System-Idee] enthält das grundlegende Konzept des Projekts.
+Die https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/software(sad)/system-idee.adoc[System-Idee] enthält das grundlegende Konzept des Projekts.
 Es dient als ein Einstieg in die Soft- und Hardware-Dokumentationen.
 
 == Hardwaredokumentation
-In der link:hardware/HardwareDokumentation.adoc[Hardwaredokumentation] ist alles erfasst, was zum Bauen des Produkts nötig ist. Dazu gehören:
+In der https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/hardware/HardwareDokumentation.adoc[Hardwaredokumentation] ist alles erfasst, was zum Bauen des Produkts nötig ist. Dazu gehören:
 
-- *link:hardware/HardwareDokumentation.adoc#_teileliste[Teileliste]*: In der Teileliste sind alle Teile aufgeführt, welche im Produkt verbaut sind.
-- *link:hardware/HardwareDokumentation.adoc#_files[Files]*: Beinhaltet alle Dateien, welche für die Erstellung von physischen Bauteilen aus Holz (z.b. Laser) und Plastik (z.b. 3D-Druck) gebraucht wurden.
-- *link:hardware/HardwareDokumentation.adoc#_abmessungen[Abmessungen]*: Die Masse für Elemente, welche sich nicht automatisiert herstellen liessen.
+- *https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/hardware/HardwareDokumentation.adoc#_teileliste[link:hardware/HardwareDokumentation.adoc#_teileliste][Teileliste]*: In der Teileliste sind alle Teile aufgeführt, welche im Produkt verbaut sind.
+- *https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/hardware/HardwareDokumentation.adoc#_teileliste[link:hardware/HardwareDokumentation.adoc#_files][Files]*: Beinhaltet alle Dateien, welche für die Erstellung von physischen Bauteilen aus Holz (z.b. Laser) und Plastik (z.b. 3D-Druck) gebraucht wurden.
+- *https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/hardware/HardwareDokumentation.adoc#_teileliste[link:hardware/HardwareDokumentation.adoc#_abmessungen][Abmessungen]*: Die Masse für Elemente, welche sich nicht automatisiert herstellen liessen.
 
-Ausserdem enthält die Dokumentation unter anderem Informationen zur link:hardware/HardwareDokumentation.adoc#_wartung[Wartung], link:hardware/HardwareDokumentation.adoc#_erweiterbarkeit[Erweiterbarkeit] und link:hardware/HardwareDokumentation.adoc#_inbetriebnahme[Inbetriebnahme] des Produktes.
+Ausserdem enthält die Dokumentation unter anderem Informationen zur https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/hardware/HardwareDokumentation.adoc#_teileliste[link:hardware/HardwareDokumentation.adoc#_wartung][Wartung], https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/hardware/HardwareDokumentation.adoc#_teileliste[link:hardware/HardwareDokumentation.adoc#_erweiterbarkeit][Erweiterbarkeit] und https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/hardware/HardwareDokumentation.adoc#_teileliste[link:hardware/HardwareDokumentation.adoc#_inbetriebnahme][Inbetriebnahme] des Produktes.
 
 == Testdokumentation
 Die Testdokumentation zeigt auf, wie geprüft wurde, ob das Produkt den Vorgaben entspricht.
 
-Im link:testing/Admin/Test-Cases-Prüfplan.adoc[Prüfplan] ist festgehalten, welche Vorgaben wie überprüft werden. Einige Vorgaben werden automatisch mit Unit-Test überprüft, andere mit manuellen Tests.
+Im https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/testing/Admin/Test-Cases-Pr%C3%BCfplan.adoc[link:testing/Admin/Test-Cases-Prüfplan.adoc][Prüfplan] ist festgehalten, welche Vorgaben wie überprüft werden. Einige Vorgaben werden automatisch mit Unit-Test überprüft, andere mit manuellen Tests.
 
-Die Datei link:testing/Admin/Test-Cases-Übersicht.adoc[Test Cases Übersicht] enthält eine Zusammenfassung der durchgeführten Tests.
+Die Datei https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/testing/Admin/Test-Cases-%C3%9Cbersicht.adoc[link:testing/Admin/Test-Cases-Übersicht.adoc][Test Cases Übersicht] enthält eine Zusammenfassung der durchgeführten Tests.
 
-In der Datei link:testing/Admin/Test-Cases-Namenskonvention.adoc[Namenskonvention] wird aufgeführt auf, welche Beschriftung für die einzelnen Test Cases verwendet wird.
+In der Datei https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/testing/Admin/Test-Cases-Namenskonvention.adoc[link:testing/Admin/Test-Cases-Namenskonvention.adoc][Namenskonvention] wird aufgeführt auf, welche Beschriftung für die einzelnen Test Cases verwendet wird.
 
 == Programmierkonventionen
-Die link:software(sad)/coding_conventions.adoc[Coding Conventions] geben vor, wie der Code geschrieben wird.
+Die https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/software(sad)/coding_conventions.adoc[link:software(sad)/coding_conventions.adoc][Coding Conventions] geben vor, wie der Code geschrieben wird.
 
 == Anleitungen
-Die link:software(sad)/Deployment_Anleitung.adoc[Deployment Anleitung] beschreibt im Detail, wie das Deployment durchgeführt werden muss.
+Die https://github.com/fhnw-ip12-24vt/gletschery-docu/blob/main/software(sad)/Deployment_Anleitung.adoc[link:software(sad)/Deployment_Anleitung.adoc][Deployment Anleitung] beschreibt im Detail, wie das Deployment durchgeführt werden muss.
